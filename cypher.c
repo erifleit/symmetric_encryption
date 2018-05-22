@@ -26,7 +26,7 @@ void flipLR(int *input, int *output, int length);
 
    to compile:
 
-      gcc lab3.c -o my-cypher
+      gcc cypher.c -o my-cypher
 
    To run it use the command line
 

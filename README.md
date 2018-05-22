@@ -3,7 +3,7 @@ Simple algorithm that does symmetric encryption with key and IV of binary inputs
 
 To compile and execute the file:
 
-gcc lab3.c -o my-cypher
+gcc cypher.c -o my-cypher
 
 ./my−cipher [ECB/CTR/CBC] [enc/dec] [rounds] [key] [plaintext (binary)] [IV - (if decrypting only)]
 
